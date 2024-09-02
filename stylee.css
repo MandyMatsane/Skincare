@@ -74,6 +74,8 @@ nav ul li a {
     flex-wrap: wrap;
     justify-content: space-between; /* Added for spacing */
     margin-top: 50px;
+    grid-template-columns: repeat(2, 1fr);
+    
 }
 
 .col {
